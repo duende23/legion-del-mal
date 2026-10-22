@@ -1,6 +1,6 @@
 # 🦹‍♂️ La Legión del Mal
 
-Mis cambios
+Mis cambios, puedo hacer cambiod directamente en el readme de github.
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
