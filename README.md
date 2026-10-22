@@ -1,4 +1,7 @@
-# 🦹‍♂️ La Legión del Mal - Desde remoto
+
+# 🦹‍♂️ La Legión del Mal - Desde remoto y local
+
+
 
 Mis cambios, puedo hacer cambiod directamente en el readme de github.
 
