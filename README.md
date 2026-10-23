@@ -1,7 +1,7 @@
 
 # 🦹‍♂️ La Legión del Mal - Desde Local
 
-
+### Es un grupo dedicad a aprender Git
 
 Mis cambios, puedo hacer cambiod directamente en el readme de github.
 
